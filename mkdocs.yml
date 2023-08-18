@@ -1,5 +1,5 @@
-site_name: SHORTNAME
-edit_uri: https://github.com/bgacademy23/SHORTNAME/blob/main/docs
+site_name: template
+edit_uri: https://github.com/bgacademy23/template/blob/main/docs
 
 nav:
     - Home: README.md

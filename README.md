@@ -1,18 +1,18 @@
-# SESSIONTITLE
+# $SESSIONTITLE
 
 This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
 ## Session Leader(s)
 
-SESSIONLEADERS
+$SESSIONLEADERS
 
 ## Description
 
-SESSIONDESCRIPTION
+$SESSIONDESCRIPTION
 
 ## Prerequisites
 
-SESSIONPREREQUISITES
+$SESSIONPREREQUISITES
 
 !!! warning "Please make sure you meet the prerequisites above"
 
