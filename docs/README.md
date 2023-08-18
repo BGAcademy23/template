@@ -8,11 +8,11 @@ SESSIONLEADERS
 
 ## Description
 
-DESCRIPTION
+SESSIONDESCRIPTION
 
 ## Prerequisites
 
-PREREQUISITES
+SESSIONPREREQUISITES
 
 !!! warning "Please make sure you meet the prerequisites above"
 
